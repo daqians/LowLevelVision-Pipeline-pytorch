@@ -28,3 +28,10 @@ This is an easy-handle pipeline project for common AI tasks by pytorch. Currentl
 + wandb (optional)
 + argparse
 + wmi (optional)
+
+
+
+
+
+#################
+test 
