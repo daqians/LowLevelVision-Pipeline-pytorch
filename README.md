@@ -3,17 +3,17 @@ This is an easy-handle pipeline project for common AI tasks by pytorch. Currentl
 
 
 ### Files:
-datasets.py: loading images from target path
-train.py: Model training pipeline
-predict.py: task processing pipeline
+1. datasets.py: loading images from target path
+2. train.py: Model training pipeline
+3. predict.py: task processing pipeline
 
 ### Folders:
-data: datasets for training and testing
-models: different NN models
-saved_models: trained models weights
-validImages: validition of test images for visualization
-util: Tools for utilizing the model training, or additional processing like visualization.
-wandb: wandb recoder for result/parameter visualization (optional)
+1. data: datasets for training and testing
+2. models: different NN models
+3. saved_models: trained models weights
+4. validImages: validition of test images for visualization
+5. util: Tools for utilizing the model training, or additional processing like visualization.
+6. wandb: wandb recoder for result/parameter visualization (optional)
 
 
 ### Requirements:
