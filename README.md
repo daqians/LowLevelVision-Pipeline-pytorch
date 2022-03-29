@@ -2,19 +2,18 @@
 This is an easy-handle pipeline project for common AI tasks by pytorch. Currently, this project is mainly about low level vision tasks (Image2Image)
 
 
-Requirements:
-  CUDA 10.2
-  cudnn 8.0
-  python 3.6
-
-  torch==1.8.0
-  torchvision==0.9.0
-  DNN-printer==0.0.2
-  numpy
-  tqdm
-  wandb
-  argparse
-  wmi
+###Requirements:
+  +CUDA==10.2
+  +cudnn==8.0
+  +python==3.6
+  +torch==1.8.0
+  +torchvision==0.9.0
+  +DNN-printer==0.0.2
+  +numpy
+  +tqdm
+  +wandb (optional)
+  +argparse
+  +wmi (optional)
 
 
 Folders:
