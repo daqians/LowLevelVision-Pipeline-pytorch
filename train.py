@@ -301,4 +301,3 @@ if __name__ == '__main__':
 
     ##### Run training process #####
     TrainModel(opt)
-    print('aa')
