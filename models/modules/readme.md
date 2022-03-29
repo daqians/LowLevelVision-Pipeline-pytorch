@@ -2,4 +2,4 @@
 
 1. Attention
 2. Conv
-3. backbone: backbone models with classic sturctures of DL models
+3. backbone: backbone models with classic structures of DL models
